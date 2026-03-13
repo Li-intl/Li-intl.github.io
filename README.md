@@ -8,7 +8,8 @@
 
 
 
-  This is my theme: jekyll-theme-architect
+  This is my theme: jekyll-theme-merlot
+  (it is really a nice theme)
 
 
 
@@ -21,3 +22,4 @@
 
 
 HAVE A NICE DAY!
+
